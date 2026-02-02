@@ -6,3 +6,7 @@ Developed in Max and visualised through TouchDesigner, this project approaches t
 
 
 ## Usage
+- MaxMSP: user needs to use MaxMSP to play the sopunds and launch the interactive interface
+- TouchDesigner: the user needs to Use TouchDesigner in performance mode for the visualisation
+
+In MaxMSP there is an easy dashboard control, whith toggles and buttons. The user is invited to explore that observing the live reaction of the visualisation.
